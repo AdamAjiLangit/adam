@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A passionate web dev from Indonesia</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently mastering **Next.js**
 
 - 📫 How to reach me **adam.aji2007@gmail.com**
 
