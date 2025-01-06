@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📫 How to reach me **adam.aji2007@gmail.com**
+- 📫 How to reach me **adamajilangit@gmail.com**
 
 - ⚡ Fun fact **Water might not be wet💧**
 
