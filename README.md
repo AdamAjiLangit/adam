@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">A passionate web dev from Indonesia</h3>
+<h1 align="left">Hi There! 👋</h1>
+<h4 align="left">I'm Adam (he/him)</h3>
+<p>- i'm a frontend developer, web designer, web programmer, and high school student. I'm interested in web design, My passion is building cool stuff. I build primarily with React, Tailwind CSS, and Framer Motion. I love this stack so much that I even built a website about it.</p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Web Animation**
 
 - 📫 How to reach me **adamajilangit@gmail.com**
 
@@ -15,7 +16,7 @@
   <a href="https://linkedin.com/in/adam-aji-langit-817670267/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://adam-personal-portofolio.vercel.app/" target="_blank">
+  <a href="https://creation-one.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
